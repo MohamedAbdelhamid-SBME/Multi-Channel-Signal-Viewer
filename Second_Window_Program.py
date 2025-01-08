@@ -1,5 +1,5 @@
 from PyQt5 import QtCore
-import Bassant
+import Second_Window_UI
 import pyqtgraph as pg
 from PyQt5.QtWidgets import QFileDialog, QApplication, QMainWindow, QColorDialog, QVBoxLayout, QWidget
 import sys
@@ -10,7 +10,7 @@ from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.animation import FuncAnimation
 from matplotlib.widgets import Button
 
-class MainWindow(QMainWindow, Bassant.Ui_Form):
+class MainWindow(QMainWindow, Second_Window_UI.Ui_Form):
     def __init__(self):
         super(MainWindow, self).__init__()
 

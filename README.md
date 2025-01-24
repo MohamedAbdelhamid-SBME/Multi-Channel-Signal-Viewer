@@ -1,7 +1,11 @@
 # Multi-Port, Multi-Channel Signal Viewer #
 ![image](https://github.com/user-attachments/assets/df2b15cf-963f-4c65-b0f3-16e459cb7167)
 
-**Signal Viewer** is a Python-based desktop application developed with PyQt5 for monitoring and visualizing medical signals. This tool enables users to interact with multi-port, multi-channel signals and provides robust features for viewing, processing, and reporting on the signals.
+**Signal Viewer** is a Python-based desktop application developed with PyQt5 for monitoring and visualizing medical signals. This tool enables users to interact with multi-port, multi-channel signals and provides robust features 
+
+https://github.com/user-attachments/assets/ceddcf6f-96b0-4e86-a224-1d928e36b109
+
+for viewing, processing, and reporting on the signals.
 
 ## Features
 

@@ -39,7 +39,7 @@
 8. **Exporting & Reporting**:
    - Generate detailed PDF reports with glued signal snapshots and statistical data (mean, standard deviation, min, max, duration).
    - Create well-organized, multi-page reports directly from the application.
-
+## Demo
 https://github.com/user-attachments/assets/53fdb6d7-b821-451a-8fa6-be7f15146768
 ## Installation
 
